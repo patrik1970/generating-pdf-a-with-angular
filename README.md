@@ -1,6 +1,6 @@
 # PDF/A Generator with Angular
 
-This project is an Angular application that generates PDF/A documents using the `pdfmake` library. The application includes a button that, when clicked, generates and downloads a PDF/A-3a compliant document.
+This project is an Angular application that generates PDF/A documents using the `pdfmake` library. The application includes a button that, when clicked, generates and downloads a PDF/A-3a compliant document.I validated my downloaded PDF/A file on https://www.pdf2go.com/validate-pdfa. Just upload your PDF/A file and push the start button on the bottom.Do not forget to select PDF/A standard to PDF/A-3B that we use in our solution. Happy Coding!
 
 ## Project Structure
 
