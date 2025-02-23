@@ -2,10 +2,8 @@ import { Component } from '@angular/core';
 import { setPdfMakeVfs } from './pdfmake-config';
 import pdfMake from 'pdfmake/build/pdfmake';
 
-
 // Set the vfs for PDFMake
 setPdfMakeVfs();
-
 
 @Component({
   selector: 'app-root',
