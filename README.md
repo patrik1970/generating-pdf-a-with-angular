@@ -77,7 +77,7 @@ export class AppComponent {
 This file contains the HTML template for the main component. It includes a button that triggers the PDF generation.
 
 ```html
-<button (click)="generatePDF()">Ladda ner till (PDF/A)</button>
+<button (click)="generatePDF()">Download to (PDF/A)</button>
 ```
 
 ### pdfmake-config.ts
